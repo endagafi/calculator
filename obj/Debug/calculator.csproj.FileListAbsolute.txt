@@ -1,0 +1,10 @@
+C:\Users\Msi\Documents\Projects\bairesdev\calculator\bin\Debug\calculator.exe.config
+C:\Users\Msi\Documents\Projects\bairesdev\calculator\bin\Debug\calculator.exe
+C:\Users\Msi\Documents\Projects\bairesdev\calculator\bin\Debug\calculator.pdb
+C:\Users\Msi\Documents\Projects\bairesdev\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Msi\Documents\Projects\bairesdev\calculator\obj\Debug\calculator.Calculator.resources
+C:\Users\Msi\Documents\Projects\bairesdev\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Msi\Documents\Projects\bairesdev\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Msi\Documents\Projects\bairesdev\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Documents\Projects\bairesdev\calculator\obj\Debug\calculator.exe
+C:\Users\Msi\Documents\Projects\bairesdev\calculator\obj\Debug\calculator.pdb
